@@ -1,7 +1,9 @@
 #H1 Optimización de imagenes
 
-#h2 El siguiente proyecto puedes optimizar imagnes de jpg, png ó jpeg a WEBP
-#h3 También minifica css
+#H2 USANDO GULP
+
+#h3 El siguiente proyecto puedes optimizar imagnes de jpg, png ó jpeg a WEBP
+#h4 También minifica css
 
 
 #h3 Primer paso
